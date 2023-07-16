@@ -1,6 +1,6 @@
 <header>
   
-# entre-linhas
+# entrelinhas
 
 _um blog sobre coisas_
 
